@@ -1,0 +1,4 @@
+
+TXT record in DNS configuration: _github-pages-challenge-Orneil
+
+code for the value of the TXT record: 402784068e5671a0266d39ae9c8a31

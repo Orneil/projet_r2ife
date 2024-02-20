@@ -1,0 +1,7 @@
+streamlit==1.20.0
+pandas>=0.25,<2.0
+numpy
+matplotlib
+streamlit-authenticator
+PyYAML
+openpyxl
